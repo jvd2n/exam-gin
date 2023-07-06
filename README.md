@@ -1,1 +1,2 @@
-https://gin-gonic.com/docs/quickstart/
+### golang web server test
+gin framework
